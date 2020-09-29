@@ -3,7 +3,7 @@ pipeline {
     agent any
     
     environment {
-        IP = '144.202.3.128'
+        IP = 'localhost'
     }
     
     stages {
